@@ -5,14 +5,12 @@
 #
 
 ### 연구 주제(국문)
-
-  Object Detection을 이용한 지능형 CCTV 감시 시스템
+    Object Detection을 이용한 지능형 CCTV 감시 시스템
 
 #
 
 ### 연구 주제(영문)
-
-  Wired/Wireless intelligent CCTV Surveillance System using Object Detection
+    Wired/Wireless intelligent CCTV Surveillance System using Object Detection
 
 #
 
